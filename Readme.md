@@ -1,2 +1,4 @@
 ### THE UFO FONTS ###
 This is my first ever source code for the fonts. You can modify OUR FONTS! But, be sure to credit me or you will regret it...
+# Notice #
+They are on .zip files because, Yeye.
